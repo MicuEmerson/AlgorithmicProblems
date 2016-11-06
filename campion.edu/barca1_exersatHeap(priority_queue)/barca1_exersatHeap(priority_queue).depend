@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445548069 source:c:\users\emy\desktop\campion.edu\barca1_exersatheap(priority_queue)\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

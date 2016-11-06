@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452277957 source:c:\users\emy\desktop\campion.edu\adunscad\main.cpp
+	<iostream>
+	<fstream>
+

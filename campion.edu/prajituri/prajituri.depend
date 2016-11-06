@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451680978 source:c:\users\emy\desktop\campion.edu\prajituri\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+

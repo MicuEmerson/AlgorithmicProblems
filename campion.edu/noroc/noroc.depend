@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447245810 source:c:\users\emy\desktop\campion.edu\noroc\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439302505 source:c:\users\emy\desktop\campion.edu\traseu2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+

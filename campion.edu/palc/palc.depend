@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1451569764 source:c:\users\emy\desktop\campion.edu\palc\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+	<cstring>
+	<stdio.h>
+	<string.h>
+

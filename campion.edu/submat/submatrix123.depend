@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452610803 source:c:\users\emy\desktop\campion.edu\submatrix123\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

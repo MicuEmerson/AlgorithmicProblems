@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441626668 source:c:\users\emy\desktop\campion.edu\;a\main.cpp
+	<iostream>
+	<fstream>
+

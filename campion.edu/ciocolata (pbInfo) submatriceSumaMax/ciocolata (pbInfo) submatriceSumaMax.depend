@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456664136 source:c:\users\emy\desktop\campion.edu\ciocolata (pbinfo) submatricesumamax\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string.h>
+	<deque>
+

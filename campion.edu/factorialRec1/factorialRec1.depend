@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1459089107 source:c:\users\emy\desktop\campion.edu\factorialrec1\main.cpp
+	<fstream>
+	<algorithm>
+	<cmath>
+	<iostream>
+	<string.h>
+	<string>
+	<ctype.h>
+	<set>
+	<queue>
+	<stack>
+	<deque>
+	<iomanip>
+

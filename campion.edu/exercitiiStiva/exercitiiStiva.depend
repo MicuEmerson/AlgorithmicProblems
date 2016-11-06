@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1439586518 source:c:\users\emy\desktop\campion.edu\exercitiistiva\main.cpp
+	<iostream>
+	<stack>
+	<fstream>
+	<string.h>
+

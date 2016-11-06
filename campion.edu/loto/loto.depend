@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445275122 source:c:\users\emy\desktop\campion.edu\loto\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

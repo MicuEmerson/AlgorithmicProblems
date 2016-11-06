@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442848099 source:c:\users\emy\desktop\campion.edu\numeremarivectoroperatii\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

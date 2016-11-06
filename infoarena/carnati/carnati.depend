@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458486376 source:c:\users\emy\desktop\infoarena\carnati\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

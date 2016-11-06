@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457956506 source:c:\users\emy\desktop\campion.edu\interesant (oji 2016 x-a)\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+	<string>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437912134 source:c:\users\emy\desktop\c_app\alfabetar\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

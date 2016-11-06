@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451389434 source:c:\users\emy\desktop\campion.edu\muzeu(infoarena)\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441525046 source:c:\users\emy\desktop\campion.edu\onigim\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

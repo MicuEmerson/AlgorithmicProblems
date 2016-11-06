@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452874971 source:c:\users\emy\desktop\campion.edu\matriosca1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

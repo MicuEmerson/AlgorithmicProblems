@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441636621 source:c:\users\emy\desktop\campion.edu\taste\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

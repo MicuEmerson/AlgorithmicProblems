@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458469898 source:c:\users\emy\desktop\infoarena\joctv\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

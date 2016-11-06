@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446505721 source:c:\users\emy\desktop\campion.edu\sumacifre\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

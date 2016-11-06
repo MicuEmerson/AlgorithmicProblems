@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452462207 source:c:\users\emy\desktop\campion.edu\bile3\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<stack>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1439211627 source:c:\users\emy\desktop\campion.edu\eoliene\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+

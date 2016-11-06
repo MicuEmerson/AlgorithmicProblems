@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442512844 source:c:\users\emy\desktop\campion.edu\politics\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458591492 source:c:\users\emy\desktop\infoarena\peri\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

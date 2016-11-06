@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449844311 source:c:\users\emy\desktop\campion.edu\hashuri\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

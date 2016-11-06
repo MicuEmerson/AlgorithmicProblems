@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1442586861 source:c:\users\emy\desktop\campion.edu\agenda\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<string.h>
+	<sstream>
+

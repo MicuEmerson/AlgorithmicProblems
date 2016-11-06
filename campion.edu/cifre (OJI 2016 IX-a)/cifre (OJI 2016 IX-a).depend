@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457962787 source:c:\users\emy\desktop\campion.edu\cifre (oji 2016 ix-a)\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

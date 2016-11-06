@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441822199 source:c:\users\emy\desktop\campion.edu\meniurigreedy\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+

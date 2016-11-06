@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1438442015 source:c:\users\emy\desktop\campion.edu\codcorect\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443794199 source:c:\users\emy\desktop\campion.edu\concurs2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<algorithm>
+

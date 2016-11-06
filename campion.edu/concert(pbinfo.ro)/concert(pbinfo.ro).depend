@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442321195 source:c:\users\emy\desktop\campion.edu\concert(pbinfo.ro)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<algorithm>
+

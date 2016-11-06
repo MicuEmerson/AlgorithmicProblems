@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439024507 source:c:\users\emy\desktop\campion.edu\jeton\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

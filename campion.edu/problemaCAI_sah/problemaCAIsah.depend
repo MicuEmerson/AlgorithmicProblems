@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440966583 source:c:\users\emy\desktop\campion.edu\problemacaisah\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+

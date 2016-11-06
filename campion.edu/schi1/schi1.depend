@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446992035 source:c:\users\emy\desktop\campion.edu\schi1\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

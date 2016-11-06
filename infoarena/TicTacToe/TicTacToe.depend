@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475243304 source:c:\users\emy\desktop\infoarena\tictactoe\main.cpp
+	<iostream>
+	<vector>
+	<limits.h>
+

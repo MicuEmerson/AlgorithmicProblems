@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458514805 source:c:\users\emy\desktop\infoarena\orase\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cmath>
+

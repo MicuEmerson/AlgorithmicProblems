@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447433379 source:c:\users\emy\desktop\campion.edu\rima\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+

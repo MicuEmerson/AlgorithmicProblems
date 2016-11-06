@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444946831 source:c:\users\emy\desktop\campion.edu\piramide\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

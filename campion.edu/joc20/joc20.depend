@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438543354 source:c:\users\emy\desktop\campion.edu\joc20\main.cpp
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<string.h>
+

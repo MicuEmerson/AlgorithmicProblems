@@ -1,0 +1,6 @@
+5
+Solo 0 0 0
+Anakin 20 18 30
+Luke 40 12 25
+Kenobi 15 3 2
+Yoda 35 9 125

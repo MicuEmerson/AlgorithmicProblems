@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439814919 source:c:\users\emy\desktop\campion.edu\cifre3\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447331043 source:c:\users\emy\desktop\campion.edu\a. pawnchess (codeforces div2.#328)\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1438115950 source:c:\users\emy\desktop\c_app\ecuatiicampion\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+
+1438156866 source:c:\users\emy\desktop\campion.edu\ecuatii\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+

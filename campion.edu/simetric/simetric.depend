@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445878349 source:c:\users\emy\desktop\campion.edu\simetric\main.cpp
+	<iostream>
+	<fstream>
+

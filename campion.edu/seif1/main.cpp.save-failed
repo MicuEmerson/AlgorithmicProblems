@@ -1,0 +1,118 @@
+#include <iostream>
+#include <fstream>
+#include <string.h>
+#include <ctype.h>
+#include <algorithm>
+using namespace std;
+
+ifstream fin("seif1.in");
+ofstream fout("seif1.out");
+
+void afisare(int v[100000], int n)
+{
+
+    for(int i=1; i<=n; i++)
+    {
+       fout<<v[i]<<" ";
+    }
+
+}
+
+
+void adaugarePePrimaPoz(int v[100000], int &n, int elem){
+
+  n++;
+ for(int i=n;i>=1;i--){
+    v[i]=v[i-1];
+ }
+v[1]=elem;
+
+}
+
+
+
+int main()
+{
+    int n,k,i,j,dimV=0,dimP;
+    int a[101][101];
+    int v[100000],contor=1,contor2;
+    fin>>n>>k;
+    for(i=1; i<=n; i++)
+    {
+        for(j=1; j<=n; j++)
+        {
+            fin>>a[i][j];
+        }
+    }
+    i=1;
+    j=n/2;
+    while(j>0 && i<=n/2)
+    {
+        dimV++;
+        v[dimV]=a[i][j];
+        j--;
+        i++;
+    }
+    j++;
+    while(j<=n/2 && i<=n)
+    {
+        dimV++;
+        v[dimV]=a[i][j];
+        i++;
+        j++;
+    }
+    i--;
+    while(j<=n && i>=n/2)
+    {
+        dimV++;
+        v[dimV]=a[i][j];
+        j++;
+        i--;
+    }
+    j--;
+
+    while(j>=n/2 && i>0)
+    {
+        dimV++;
+        v[dimV]=a[i][j];
+        j--;
+        i--;
+    }
+
+    //permutari
+    int perm[1050];
+
+    k=k%4;
+    while(contor<=k){
+        contor++;
+        dimP=0;
+        //copy last  n/2 elements
+        for(i=dimV-n/2;i<=dimV;i++){
+                dimP++;
+            perm[dimP]=v[i];
+        }
+
+
+        // eliminare
+        dimV=dimV-3;
+
+
+        // adaugare pe prima pozitie
+        for(i=dimP;i>=1;i--){
+            adaugarePePrimaPoz(v,dimV,perm[i]);
+        }
+
+
+    }
+    afisare(v,dimV);
+
+
+}
+
+
+
+
+
+
+
+

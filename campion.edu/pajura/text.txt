@@ -1,0 +1,11 @@
+3 4
+CPCC
+PCPP
+CPCC
+5 2
+PC
+CC
+CP
+CC
+CC
+0 0

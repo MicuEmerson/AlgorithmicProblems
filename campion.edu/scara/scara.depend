@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1438432764 source:c:\users\emy\desktop\campion.edu\scara\main.cpp
+	<iostream>
+	<fstream>
+

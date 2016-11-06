@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452114706 source:c:\users\emy\desktop\campion.edu\fry\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

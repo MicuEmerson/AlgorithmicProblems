@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444076479 source:c:\users\emy\desktop\campion.edu\intersectiesegmente(pbinfo)geometrie\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cmath>
+	<iomanip>
+

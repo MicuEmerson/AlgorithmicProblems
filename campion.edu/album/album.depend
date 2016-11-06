@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442172548 source:c:\users\emy\desktop\campion.edu\album\main.cpp
+	<iostream>
+	<fstream>
+

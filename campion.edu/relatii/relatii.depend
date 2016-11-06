@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444911270 source:c:\users\emy\desktop\campion.edu\relatii\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

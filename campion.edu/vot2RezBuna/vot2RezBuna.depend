@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437908087 source:c:\users\emy\desktop\c_app\vot2rezbuna\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

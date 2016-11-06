@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458413791 source:c:\users\emy\desktop\infoarena\oji 2016 ks viii-a\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<limits.h>
+

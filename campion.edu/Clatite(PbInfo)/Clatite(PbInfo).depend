@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456501346 source:c:\users\emy\desktop\campion.edu\clatite(pbinfo)\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

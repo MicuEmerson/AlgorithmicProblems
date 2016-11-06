@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439969372 source:c:\users\emy\desktop\campion.edu\doitrei\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+

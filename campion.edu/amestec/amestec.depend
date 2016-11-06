@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447167420 source:c:\users\emy\desktop\campion.edu\amestec\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<algorithm>
+

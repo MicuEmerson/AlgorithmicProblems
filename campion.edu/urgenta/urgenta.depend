@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1445782071 source:c:\users\emy\desktop\campion.edu\urgenta\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+

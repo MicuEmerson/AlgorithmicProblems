@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460896953 source:c:\users\emy\desktop\infoarena\ksecv\main.cpp
+	<fstream>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<float.h>
+

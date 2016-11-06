@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443444795 source:c:\users\emy\desktop\campion.edu\nrcuv\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<ctype.h>
+

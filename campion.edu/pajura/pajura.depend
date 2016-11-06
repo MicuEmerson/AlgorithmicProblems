@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451476380 source:c:\users\emy\desktop\campion.edu\pajura\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+

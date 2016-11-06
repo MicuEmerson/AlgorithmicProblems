@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459169011 source:c:\users\emy\desktop\infoarena\energii\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

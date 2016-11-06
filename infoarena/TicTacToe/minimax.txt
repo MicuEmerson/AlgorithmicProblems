@@ -1,0 +1,70 @@
+/*
+struct spotMove
+{
+    spotMove() {};
+    spotMove(int Score) : score(Score) {}
+    int x, y, score;
+};
+
+void hardSpot(char player)
+{
+    spotMove k = bestMove(player);
+    a[k.x][k.y] = player;
+}
+
+
+
+spotMove miniMax(char player)
+{
+    int res = check();
+    if(res == 1)
+        return spotMove(-10);
+    else if(res == 2)
+        return spotMove(10);
+    else if(res == 3)
+        return spotMove(0);
+
+    vector <spotMove> v;
+
+    for(int i=0; i<3; i++)
+        for(int j=0; j<3; j++)
+            if(a[i][j] == '_')
+            {
+                a[i][j] = player;
+
+                spotMove k;
+                k.x = i;
+                k.y = j;
+                if(player == 'O')
+                    k.score = miniMax('X').score;
+                else
+                    k.score = miniMax('O').score;
+
+                v.push_back(k);
+                a[i][j] = '_';
+            }
+
+    int indexMove;
+    if(player == 'O')
+    {
+        int maxy = -INT_MAX;
+        for(int i=0; i<v.size(); i++)
+            if(maxy < v[i].score)
+            {
+                maxy = v[i].score;
+                indexMove = i;
+            }
+    }
+    else
+    {
+        int miny = INT_MAX;
+        for(int i=0; i<v.size(); i++)
+            if(miny > v[i].score)
+            {
+                miny = v[i].score;
+                indexMove = i;
+            }
+    }
+    return v[indexMove];
+}
+*/

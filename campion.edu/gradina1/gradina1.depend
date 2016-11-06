@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444470083 source:c:\users\emy\desktop\campion.edu\gradina1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

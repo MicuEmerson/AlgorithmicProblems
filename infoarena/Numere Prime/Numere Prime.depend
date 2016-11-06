@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459273329 source:c:\users\emy\desktop\infoarena\numere prime\main.cpp
+	<iostream>
+	<fstream>
+

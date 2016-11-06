@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1440865144 source:c:\users\emy\desktop\campion.edu\litere\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+	<cstring>
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+	<cstring>
+

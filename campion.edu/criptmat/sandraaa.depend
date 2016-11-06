@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437839254 source:c:\users\emy\desktop\c_app\sandraaa\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+

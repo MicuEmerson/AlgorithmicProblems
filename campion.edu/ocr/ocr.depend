@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443564915 source:c:\users\emy\desktop\campion.edu\ocr\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<cstdlib>
+	<cmath>
+

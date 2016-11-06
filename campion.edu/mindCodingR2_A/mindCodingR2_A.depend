@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1457808585 source:c:\users\emy\desktop\campion.edu\mindcodingr2_a\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<deque>
+	<set>
+	<ctype.h>
+	<string.h>
+

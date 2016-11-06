@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1440621445 source:c:\users\emy\desktop\campion.edu\horrible queries (a2oj) aib\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+	<cstring>
+

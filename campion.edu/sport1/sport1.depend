@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452424575 source:c:\users\emy\desktop\campion.edu\sport1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

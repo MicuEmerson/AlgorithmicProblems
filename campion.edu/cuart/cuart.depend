@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444141393 source:c:\users\emy\desktop\campion.edu\cuart\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+

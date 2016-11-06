@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1438605125 source:c:\users\emy\desktop\campion.edu\marcare\main.cpp
+	<iostream>
+	<fstream>
+

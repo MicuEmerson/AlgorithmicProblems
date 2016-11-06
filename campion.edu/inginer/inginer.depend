@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1442826322 source:c:\users\emy\desktop\campion.edu\inginer\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<algorithm>
+

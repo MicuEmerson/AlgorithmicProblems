@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438544748 source:c:\users\emy\desktop\campion.edu\matrixdel\main.cpp
+	<iostream>
+	<fstream>
+	<ctype.h>
+	<string.h>
+

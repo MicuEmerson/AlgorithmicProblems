@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1440418048 source:c:\users\emy\desktop\campion.edu\stars 1028. aib  (acm.timus.ru)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+	<stack>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438088017 source:c:\users\emy\desktop\c_app\ordonarecampion\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+

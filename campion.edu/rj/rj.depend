@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452535046 source:c:\users\emy\desktop\campion.edu\rj\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<queue>
+

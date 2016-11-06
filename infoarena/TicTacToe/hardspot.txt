@@ -1,0 +1,31 @@
+void hardSpot()
+{
+    for(int i=0; i<3; i++)
+        for(int j=0; j<3; j++)
+            if(a[i][j] == '_')
+            {
+                a[i][j] = 'O';
+                if(check() == 2)
+                    return;
+                a[i][j] = '_';
+            }
+
+    for(int i=0; i<3; i++)
+        for(int j=0; j<3; j++)
+            if(a[i][j] == '_')
+            {
+                a[i][j] = 'X';
+                if(check() == 1)
+                {
+                    a[i][j] = 'O';
+                    return;
+                }
+                a[i][j] = '_';
+            }
+    if(a[1][1] == '_')
+    {
+        a[1][1] = 'O';
+        return ;
+    }
+    easySpot();
+}

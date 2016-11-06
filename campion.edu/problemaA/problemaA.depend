@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1439484757 source:c:\users\emy\desktop\campion.edu\problemaa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<algorithm>
+	<math.h>
+	<cmath>
+
