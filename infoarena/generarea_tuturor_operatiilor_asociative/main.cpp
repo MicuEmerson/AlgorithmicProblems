@@ -1,5 +1,7 @@
 #include <iostream>
+#include <fstream>
 using namespace std;
+ofstream fout("output.txt");
 
 // generarea tuturor operatiilor asociative
 
@@ -26,10 +28,10 @@ void gen(int lin, int col)
         for(int i=1; i<=n; i++)
         {
             for(int j=1; j<=n; j++)
-                cout<<m[i][j]<<' ';
-            cout<<'\n';
+                fout<<m[i][j]<<' ';
+            fout<<'\n';
         }
-        cout<<'\n';
+        fout<<'\n';
     }
     else
     {
@@ -43,13 +45,11 @@ void gen(int lin, int col)
             m[lin][col] = 0;
         }
     }
-
-
 }
 
 int main()
 {
     cin >> n;
     gen(1, 1);
-    cout << s;
+    fout << s;
 }
